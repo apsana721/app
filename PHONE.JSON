@@ -420,6 +420,34 @@
         "category": "smartphones",
         "Memory Storage": "128 GB",
         "image": "https://m.media-amazon.com/images/I/71XYJL6myIL._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 31,
+        "title": "A14ProMax",
+        "description": "A14ProMax Unlocked Android Smartphone 6GB+256GB, 6.8 HD+ Display, 50MP+24MP Dual Camera, 6800mAh Battery, 5G Dual SIM, 128GB Expandable (Gold)",
+        "price": 109.00,
+        "discountPercentage": 12.96,
+        "rating": 4.8,
+        "stock": 40,
+        "brand": "fuxinya",
+        "category": "smartphones",
+        "Memory Storage": "256 GB",
+        "image": "https://m.media-amazon.com/images/I/71gHDDE9CWL._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 32,
+        "title": "Samsung Galaxy A15 5G",
+        "description": "Tracfone | Samsung Galaxy A15 5G | Locked | 128GB | 5000mAh Battery | 50MP Main Camera| 6.5-in. AMOLED Display | Black",
+        "price": 79.33,
+        "discountPercentage": 12.96,
+        "rating": 4.4,
+        "stock": 10,
+        "brand": "Tracfone",
+        "category": "smartphones",
+        "Memory Storage": "128 GB",
+        "image": "https://m.media-amazon.com/images/I/61RcDPhKqQL._AC_UY218_.jpg"
       }
 
 
