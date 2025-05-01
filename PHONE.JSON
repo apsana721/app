@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "title": "Apple iPhone 13",
+      "description": "This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers.",
+      "price": 248.99,
+      "discountPercentage": 12.96,
+      "rating": 4.0,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "Memory Storage": "128 GB",
+      "image": "https://m.media-amazon.com/images/I/61VuVU94RnL._AC_UY218_.jpg"
+    },
+    
+    {
+        "id": 2,
+        "title": "Apple iPhone 16 Pro Max",
+        "description": "This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers..",
+        "price": 359.99,
+        "discountPercentage": 10.96,
+        "rating": 4.7,
+        "stock": 90,
+        "brand": "Apple",
+        "category": "smartphones",
+        "Memory Storage": "256 GB",
+        "image": "https://m.media-amazon.com/images/I/31TeIieDiAL._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 3,
+        "title": "Apple iPhone 12 Pro Max",
+        "description": "A14 Bionic chip, the fastest chip ever in a smartphone",
+        "price": 64.01,
+        "discountPercentage": 10.96,
+        "rating": 4.2,
+        "stock": 70,
+        "brand": "Apple",
+        "category": "smartphones",
+        "Memory Storage": "256 GB",
+        "image": "https://m.media-amazon.com/images/I/71MHTD3uL4L._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 4,
+        "title": "Samsung Galaxy A15",
+        "description": "Dual SIM, Factory Unlocked GSM, International Version (Wall Charger Bundle) (Light Blue)",
+        "price": 155.0,
+        "discountPercentage": 10.96,
+        "rating": 4.9,
+        "stock": 50,
+        "brand": "SAMSUNG",
+        "category": "smartphones",
+        "Memory Storage": "128 GB",
+        "image": "https://m.media-amazon.com/images/I/61nmDdSEuUL._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 5,
+        "title": "SAMSUNG Galaxy A16 5G",
+        "description": "This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers..",
+        "price": 774.1,
+        "discountPercentage": 11.96,
+        "rating": 4.6,
+        "stock": 80,
+        "brand": "SAMSUNG",
+        "category": "smartphones",
+        "Memory Storage": "128 GB",
+        "image": "https://m.media-amazon.com/images/I/71KGkQ+KOKL._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 6,
+        "title": "OnePlus",
+        "description": "108MP Triple Camera with 3x Lossless Zoom and Electronic Image Stabilisation (EIS) - titanic main camera that captures clear, high-detail photos with 9-in-1 pixel binning tech that absorbs more light for brighter, more colorful images.",
+        "price": 359.99,
+        "discountPercentage": 10.96,
+        "rating": 4.9,
+        "stock": 90,
+        "brand": "OnePlus",
+        "category": "smartphones",
+        "Memory Storage": "128 GB",
+        "image": "https://m.media-amazon.com/images/I/714FKbjDx8L._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 7,
+        "title": "OnePlus",
+        "description": "Nord N30 5G (128GB, 8GB) 6.72 120Hz LCD, 108MP Camera, Snapdragon, 3.5mm Jack (US Model Fully Unlocked for T-Mobile, AT&T, Verizon, Global 4G LTE) (w/ 50W Charger & 256GB",
+        "price": 635.89,
+        "discountPercentage": 10.96,
+        "rating": 5.0,
+        "stock": 90,
+        "brand": "OnePlus",
+        "category": "smartphones",
+        "Memory Storage": "256 GB",
+        "image": "https://m.media-amazon.com/images/I/711F6T6aySL._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 8,
+        "title": "SAMSUNG Galaxy S25 ",
+        "description": "Ultra Cell Phone, 512GB AI Smartphone, Unlocked Android, AI Camera, Fast Processor, Long Battery Life, 2025, US 1 Yr Manufacturer Warranty, Titanium Black",
+        "price": 1164.23,
+        "discountPercentage": 12.96,
+        "rating": 5.0,
+        "stock": 20,
+        "brand": "SAMSUNG",
+        "category": "smartphones",
+        "Memory Storage": "512 GB",
+        "image": "https://m.media-amazon.com/images/I/61n0lmxP5-L._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 9,
+        "title": "Motorola Edge+",
+        "description": "Unlocked | Made for US 8/512 | 50 MPCamera | Intersteller Black, 161.16x74x8.59",
+        "price": 392.99,
+        "discountPercentage": 10.96,
+        "rating": 4.8,
+        "stock": 70,
+        "brand": "Motorola",
+        "category": "smartphones",
+        "Memory Storage": "512 GB",
+        "image": "https://m.media-amazon.com/images/I/61eyXBlFk7L._AC_UY218_.jpg"
+      },
+
+      {
+        "id": 10,
+        "title": "Xiaomi Poco X6 PRO 5G",
+        "description": "Unlocked (512GB + 12GB) GSM 6.67 64MP Triple Camera (Tmobile Mint Tello Global) + (Car Fast Car Dual Charger Bundle) (Black)",
+        "price": 259.50,
+        "discountPercentage": 10.96,
+        "rating": 4.8,
+        "stock": 80,
+        "brand": "Xiaomi",
+        "category": "smartphones",
+        "Memory Storage": "512 GB",
+        "image": "https://m.media-amazon.com/images/I/51ClQ5sgthL._AC_UY218_.jpg"
+      }
+
+    ]
